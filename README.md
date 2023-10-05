@@ -1,4 +1,8 @@
-# kicad-lib-WeAct-Black-Pill-V2
+# KiCAD BlackPill F4xx library
+
+KiCad Library for WeAct Black Pill V2.0 development board based on STM32F4xx.  
+
+It gives you a single part that can be placed on a schematic/board so you can simply solder in or plug in an WeAct Black Pill V2.0 into your project.
 
 ## Install
 1. Copy files to your favorite folder of your local PC.  
